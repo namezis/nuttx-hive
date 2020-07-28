@@ -1,0 +1,16 @@
+[submodule "nuttx-llvm"]
+	path = nuttx-llvm
+	url = git@github.com:namezis/nuttx-llvm-project.git
+	branch = nuttx-llvmorg-4.0.0
+[submodule "apps"]
+	path = apps
+	url = https://bitbucket.org/nuttx/apps
+	branch = master
+[submodule "nuttx"]
+	path = nuttx
+	url = https://bitbucket.org/nuttx/nuttx
+	branch = master
+[submodule "apps-cxx"]
+	path = apps-cxx
+	url = git@github.com:namezis/nuttx-apps-cxx.git
+	branch = master
